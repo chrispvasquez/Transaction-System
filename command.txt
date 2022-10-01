@@ -1,0 +1,9 @@
+insert Bobby P 500000.74
+update Michael M -1500
+update Michael M 300
+update Chris V -99.50
+remove Obi W
+remove not exist
+insert Bobby P 784
+update Chris V 500
+get Chris V
